@@ -73,9 +73,10 @@ ul{list-style:none;}
 .stitle{font-family:'Bebas Neue',sans-serif;font-size:clamp(3rem,8vw,6rem);line-height:.92;letter-spacing:2px;color:var(--dark2);}
 .stitle.light{color:var(--text);}
 .stitle em {
-  font-style: normal;   /* keep non-italic, or change to italic if you prefer */
-  color: #FFD700;       /* gold yellow */
+  font-style: normal;
+  color: #FFD700;
 }
+
 
 .sbar{width:44px;height:3px;background:var(--amber);margin:1rem 0 2.2rem;border-radius:2px;}
 .sec-head{margin-bottom:3rem;}
